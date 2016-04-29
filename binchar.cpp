@@ -1,3 +1,7 @@
+/*
+ @ Pushkin Feleke 
+ */
+
 #include <stdio.h>
 void main()
 {
